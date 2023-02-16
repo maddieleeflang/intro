@@ -36,10 +36,10 @@ body{
 }
 .content {
 	background: #FFC0CB;
-	margin: 0px;
+	margin: 10px;
 	float: left;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #777777;
